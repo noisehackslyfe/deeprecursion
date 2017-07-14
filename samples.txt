@@ -1,0 +1,6 @@
+total 103460
+-rw-r--r-- 1 dave dave 39181384 Jul 14 00:22 civil-defense.wav
+-rw-r--r-- 1 dave dave 21728388 Jul 14 00:01 ds9theme.wav
+-rw-r--r-- 1 dave dave 15751288 Jul 13 23:44 mongo.wav
+-rw-r--r-- 1 dave dave 28061472 Jul 13 23:56 stallman.wav
+-rw-r--r-- 1 dave dave  1214480 Jul 13 23:31 your-fucked.wav
